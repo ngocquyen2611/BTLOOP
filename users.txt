@@ -1,0 +1,7 @@
+admin,123,Admin,ADMIN
+user,user123,Userr,USER
+1231,11,admin,ADMIN
+123,11,Quân,USER
+thang,123,thang,USER,DOC9
+tlam,1234,tlamm,USER
+ngocqueen,quyennehihi,quyền vũ,USER,DOC7

@@ -1,0 +1,5 @@
+DANH SÁCH MƯỢN:
+- thang đã mượn:
+  - The Fault in Our Stars (Loại: Sách, Số lượng: 1)
+- ngocqueen đã mượn:
+  - Sword Art Online 1: Aincrad (Loại: Sách, Số lượng: 1)
